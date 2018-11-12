@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CgBankingSystemSpringMvcJPADataBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ADM-IG-HWDLAB1D
+Implementation-Vendor-Id: com.cg
+Build-Jdk: 1.8.0_73
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/banking
+Created-By: Maven Integration for Eclipse
+
